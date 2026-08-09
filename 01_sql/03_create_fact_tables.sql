@@ -1,6 +1,6 @@
 -- ============================================================
 -- Projeto : Power BI Finance Dashboard
--- Arquivo : 02c_create_fact_tables.sql
+-- Arquivo : 03_create_fact_tables.sql
 -- Schema  : FINANCE
 -- Objetivo: Criação das tabelas fato
 -- ============================================================
