@@ -61,6 +61,10 @@ LEFT JOIN DIM_CONTA CO
 LEFT JOIN DIM_CATEGORIA CAT
     ON CAT.SK_CATEGORIA = F.SK_CATEGORIA
 
+LEFT JOIN DIM_TIPO_MOVIMENTO TM
+    ON TM.SK_TIPO_MOVIMENTO = F.SK_TIPO_MOVIMENTO;
+
+
 -- ============================================================
 -- 2. VW_CARTAO_CREDITO
 -- ============================================================
