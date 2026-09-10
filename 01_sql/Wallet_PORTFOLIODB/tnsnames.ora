@@ -1,0 +1,12 @@
+portfoliodb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g3a9c9fe0c904a1_portfoliodb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+portfoliodb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g3a9c9fe0c904a1_portfoliodb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+portfoliodb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g3a9c9fe0c904a1_portfoliodb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+portfoliodb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g3a9c9fe0c904a1_portfoliodb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+portfoliodb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-saopaulo-1.oraclecloud.com))(connect_data=(service_name=g3a9c9fe0c904a1_portfoliodb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
